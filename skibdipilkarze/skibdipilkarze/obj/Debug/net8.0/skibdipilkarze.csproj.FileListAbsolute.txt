@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\obj\Debug\net8.0\skibdipilkarze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\obj\Debug\net8.0\skibdipilkarze.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\obj\Debug\net8.0\skibdipilkarze.AssemblyInfo.cs
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\obj\Debug\net8.0\skibdipilkarze.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\obj\Debug\net8.0\skibdipilkarze.sourcelink.json
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\bin\Debug\net8.0\skibdipilkarze.exe
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\bin\Debug\net8.0\skibdipilkarze.deps.json
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\bin\Debug\net8.0\skibdipilkarze.runtimeconfig.json
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\bin\Debug\net8.0\skibdipilkarze.dll
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\bin\Debug\net8.0\skibdipilkarze.pdb
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\obj\Debug\net8.0\skibdipilkarze.dll
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\obj\Debug\net8.0\refint\skibdipilkarze.dll
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\obj\Debug\net8.0\skibdipilkarze.pdb
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\obj\Debug\net8.0\skibdipilkarze.genruntimeconfig.cache
+C:\Users\student\Desktop\nicho\nicho\skibdipilkarze\skibdipilkarze\obj\Debug\net8.0\ref\skibdipilkarze.dll
